@@ -5,5 +5,5 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 ---
 
 
-<img src="img/Me.jpg" alt="hi" class="inline"/>
+![alt text](https://github.com/somu15/somu15.github.io/blob/master/img/Me.jpg)
 
