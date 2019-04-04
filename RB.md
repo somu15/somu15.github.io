@@ -4,7 +4,7 @@ Journal articles are complex to understand without spending sufficient time read
 
 ### 1. Performance-Based Earthquake Engineering
 
-* [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](PBEE_EQ_SCA_1.md)
+* [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](PBEE_EQ_SCA_1.yml)
 
 ### 2. Data Analysis and Bayesian Uncertainty Quantification
 
