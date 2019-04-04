@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Multihazard resilience
-subtitle: Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?
+subtitle: Understanding the Markov hierarchy for infrastructure resilience assessment
 ---
