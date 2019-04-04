@@ -4,5 +4,5 @@ title: Accelerogram Scaling
 subtitle: Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?
 ---
 
-![Schematic_of_Earthquakes](Blogs/PBEE/Schem_Easy.png)
+![Schematic of Earthquakes](/Blogs/PBEE/Schem_Easy.png)
 
