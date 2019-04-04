@@ -4,8 +4,14 @@ title: Accelerogram Scaling
 subtitle: Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?
 ---
 
-<center><img src="/Blogs/PBEE/Scaling_Desc.PNG" width="400"></center>
+An earthquake is a complex process involving three main events: 1. rupture on the fault plane and generation of seismic waves (source); 2. seismic wave propagation (path); 3. ground motion on the surface (site). These three events associated with earthquakes are depcited in the figure below.   
 
 <center><img src="/Blogs/PBEE/Schem_Easy1.png" width="400"></center>
+
+Whenever an earthquake occurs, hundreds of instruments (called accelerometers) spread across on the surface record the ground motion. This recorded motion is typically called an accelerogram since it is a plot of ground acceleration versus time. Accelerogram scaling, as it is practiced in Earthquake Engineering, involves scaling the amplitudes of a recorded accelerogram so as to intensify it. The below figure demonstrates this scaling procedure, wherein one of the 1994 Northridge accelerograms is scaled up five times.
+
+<center><img src="/Blogs/PBEE/Scaling_Desc.PNG" width="400"></center>
+
+
 
 
