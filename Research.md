@@ -1,4 +1,8 @@
-## Research Themes
+---
+layout: page
+title: Research
+subtitle: Research Themes
+---
 
 ### 1. Performance-Based Earthquake Engineering
 
