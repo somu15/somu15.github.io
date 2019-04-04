@@ -1,7 +1,7 @@
-# Publications and Presentations
+## Publications and Presentations
 
 
-## Journal papers (in review/accepted)
+### Journal papers (in review/accepted)
 
 1. **Dhulipala, S.L.N.** and Flint, M.M. (2019) Non-Renewal Semi-Markov Functionality Recovery Model Accounting Multiple Disruptions for Infrastructure Resilience. *Reliability Engineering and System Safety* (in review)
 
@@ -14,7 +14,7 @@
 5. **Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA. *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396
 
 
-## Journal papers (in progress)
+### Journal papers (in progress)
 
 1. **Dhulipala, S.L.N.** and Baroud, H. The Markov Hierarchy in Infrastructure Resilience Assessment: From Single Hazard to Multihazards. *Structural Safety*
 
@@ -25,7 +25,7 @@
 4. Flint, M. M., **Dhulipala, S.L.N.**, Esteghamati, M. Z., Gil, E., Kamalzare, S., Ladipo, T., Shahtaheri, Y., Tahir, H., Eatherton, M. R., de la Garza, J. M., Irish, J. L., Leon, R. T., Olgun, C. G., Reichard, G., Rodriguez-Marek, A., and Zobel, C. A Performance-Based Decision Support System for Design of Multi-Hazard Resilient Sustainable Buildings. *Natural Hazards Review*
 
 
-## Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
+### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
 1. Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Tahir, H., Eatherton, M.R., Irish, J.L., Olgun, C.G., Reichard, G., Rodriguez-Marek, A., Zobel, C., Leon, R.T., and de la Garza, J.M. (2016). Decision Framework for Multi-Hazard Design of Resilient, Sustainable Buildings. *International. International Conference on Natural Hazards & Infrastructure*, Chania, Greece. **(PA; PR)**
 
