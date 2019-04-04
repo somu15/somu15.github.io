@@ -27,6 +27,8 @@ navbar-links:
   Research: "Research"
   Publications: "Pubs"
   Research Blogs: "RB"
+  Teaching: "Teaching"
+  Service: "Service"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
