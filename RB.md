@@ -8,7 +8,7 @@ Journal articles are complex to understand without spending sufficient time read
 
 ### 1. Performance-Based Earthquake Engineering
 
-* **Accelerogram amplitude scaling**
+**Accelerogram amplitude scaling**
 
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
   
