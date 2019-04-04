@@ -12,9 +12,9 @@ facebook:
   icon: "fa-facebook"
 
 researchgate:
- name: "ResearchGate"
+ name: "Researchgate"
  baseURL: "https://www.researchgate.net/"
- icon: "fab fa-researchgate"
+ icon: "fa-researchgate"
 
 github:
   name: "GitHub"
