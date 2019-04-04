@@ -5,3 +5,5 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 ---
 
 
+<img src="img/Me.jpg" alt="hi" class="inline"/>
+
