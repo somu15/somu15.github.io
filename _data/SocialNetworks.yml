@@ -14,7 +14,7 @@ facebook:
 researchgate:
  name: "ResearchGate"
  baseURL: "https://www.researchgate.net/"
- icon: "fa-researchgate"
+ icon: "fa-google-plus"
 
 github:
   name: "GitHub"
