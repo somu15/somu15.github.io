@@ -1,5 +1,8 @@
-
-## Publications and Presentations
+---
+layout: page
+title: Publications and Presentations
+subtitle:
+---
 
 
 ### Journal papers (in review/accepted)
