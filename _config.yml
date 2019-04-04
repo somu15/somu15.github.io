@@ -15,9 +15,10 @@ baseurl: ""
 
 # Name of website
 title: Som's website
+description: "Computational postdoc at the Idaho National Laboratory (from May 2019)"
 
 # Short description of your site
-description: Som's research, presentations, teaching, and outreach
+# description: Som's research, presentations, teaching, and outreach
 
 # --- Navigation bar options --- #
 
