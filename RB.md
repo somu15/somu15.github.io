@@ -15,10 +15,10 @@ Journal articles are complex to understand without spending sufficient time read
 
 ### 2. Data Analysis and Bayesian Uncertainty Quantification
 
-[Bayes rule and Markov Chain Monte Carlo](Blogs/BUQ/MCMC.md)
+* [Bayes rule and Markov Chain Monte Carlo](Blogs/BUQ/MCMC.md)
 
 ### 3. All Hazards Resilient and Sustainable Communities
 
-[Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
+* [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
 ### 4. Traditional and * Finite Element Methods
