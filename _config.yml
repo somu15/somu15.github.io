@@ -25,7 +25,7 @@ description: "Computational postdoc at the Idaho National Laboratory (from May 2
 # List of links in the navigation bar
 navbar-links:
   Research: "RB"
-  Publications: "Pubs"
+  # Publications: "Pubs"
   # Research Blogs: "RB"
   Teaching: "Teaching"
   Service: "Service"
