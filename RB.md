@@ -13,10 +13,10 @@ Journal articles are complex to understand without spending sufficient time read
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
   
 
-### 2. Data Analysis and Bayesian Uncertainty Quantification in Structural Engineering
+### 2. Critical Infrastructure Safety Assessment and Management using Bayesian Tools
 
 
-* [Bayes rule and Markov Chain Monte Carlo](Blogs/BUQ/MCMC.md)
+* [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md)
 
 
 ### 3. All Hazards Resilient and Sustainable Communities
