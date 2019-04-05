@@ -21,8 +21,7 @@ Journal articles are complex to understand without spending sufficient time read
 * [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md)
 
 <br/>
-### 3. All Hazards Resilient and Sustainable Communities
-<br/>
+### 3. All Hazards Resilient and Sustainable Communities <br/>
 
 * [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 <br/>
