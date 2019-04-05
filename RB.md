@@ -15,16 +15,18 @@ Journal articles are complex to understand without spending sufficient time read
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
  
 
-[//]: <> (### 2. Critical Infrastructure Safety Assessment and Management using Bayesian Tools)
+<!---
+### 2. Critical Infrastructure Safety Assessment and Management using Bayesian Tools
 
 
-[//]: <> (* [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md))
+* [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md)
 
 
-[//]: <> (### 3. All Hazards Resilient and Sustainable Communities )
+### 3. All Hazards Resilient and Sustainable Communities 
 
 
-[//]: <> (* [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md))
+[Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
 
-[//]: <> (### 4. Traditional and * Finite Element Methods)
+### 4. Traditional and * Finite Element Methods
+-->
