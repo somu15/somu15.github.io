@@ -12,6 +12,8 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 
 <center><img src="/Blogs/PBEE/Scaling_Desc.PNG" width="400"></center>
 
-**Why Scale Accelerograms?** Earthquake engineers have to assess the safety and reliability of building, bridges, and other infrastructure during strong earthquakes. Earthquakes which have large magnitudes and which happen at small distances from infrastructure can be characterized as being strong. [Accelerogram recordings from such strong earthquakes are scarce](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.141). For example, the fraction of magnitude greater than 6.5 and distance less than 20Km accelerograms in the [NGA-West2 ground motion database](https://ngawest2.berkeley.edu/) is less than ten percent.   
+**Why Scale Accelerograms?** Earthquake engineers have to assess the safety and reliability of building, bridges, and other infrastructure during strong earthquakes. Earthquakes which have large magnitudes and which happen at small distances from infrastructure can be characterized as being strong. [Accelerogram recordings from such strong earthquakes are scarce](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.141). For example, the fraction of magnitude greater than 6.5 and distance less than 20Km accelerograms in the [NGA-West2 ground motion database](https://ngawest2.berkeley.edu/) is less than ten percent. Owing to this scarcity of strong recorded accelerograms and the necessity of engineers to assess infrastructure earthquake performance, accelerograms are scaled.
+
+
 
 
