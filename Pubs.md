@@ -4,7 +4,7 @@ title: Publications and Presentations
 subtitle:
 ---
 
-
+<!---
 ### Journal papers (in review/accepted)
 
 1. **Dhulipala, S.L.N.** and Flint, M.M. (2019) Non-Renewal Semi-Markov Functionality Recovery Model Accounting Multiple Disruptions for Infrastructure Resilience. *Reliability Engineering and System Safety* (in review)
@@ -49,3 +49,4 @@ A Performance-Based Approach. *ASCE Congress on Technical Advancement*, Duluth, 
 8. **Dhulipala, S.L.N.**#, Rodriguez-Marek, A., and Flint, M. M. (2018). Salient Features of Seismic Hazard Deaggregation and Computation of Vector Hazard. *Geotechnical Earthquake Engineering and Soil Dynamics V*, Austin, Texas. **(PA; PR)**
 
 9. **Dhulipala, S.L.N.**#, and Flint, M. M. (2018). Toward a Unified Metric for Sufficiency and Efficiency of Scalar Earthquake Intensity Measures. *Seismological Society of America Annual Meeting*, Miami, Florida. **(PR)**
+-->
