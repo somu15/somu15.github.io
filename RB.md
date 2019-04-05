@@ -25,6 +25,6 @@ Journal articles are complex to understand without spending sufficient time read
 
 <br/>
 * [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
-<br/>
 
+<br/>
 ### 4. Traditional and * Finite Element Methods
