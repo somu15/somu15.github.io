@@ -10,7 +10,7 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 
 **Accelerograms and Scaling** Whenever an earthquake occurs, instruments called accelerometers spread across on the surface record the ground motion. This recorded motion is typically called an accelerogram since it is a plot of ground acceleration versus time. Accelerogram scaling, as it is practiced in Earthquake Engineering, involves scaling the amplitudes of a recorded accelerogram so as to intensify it. The below figure demonstrates this scaling procedure, wherein one of the 1994 Northridge accelerograms is scaled up five times. The scaled accelerogram is noted to have increased amplitudes than the unscaled one; however, the time variation of both these accelerograms is exactly the same.
 
-<center><img src="/Blogs/PBEE/Figures/Scaling_Desc.PNG" width="400"></center>
+<center><img src="/Blogs/PBEE/Figures/Scaling_Desc1.PNG" width="400"></center>
 
 **Why Scale Accelerograms?** Earthquake engineers have to assess the safety and reliability of building, bridges, and other infrastructure during strong earthquakes. Earthquakes which have large magnitudes and which happen at small distances from infrastructure can be characterized as being strong. [Accelerogram recordings from such strong earthquakes are scarce](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.695). For example, the fraction of magnitude greater than 6.5 and distance less than 20Km accelerograms in the [NGA-West2 ground motion database](https://ngawest2.berkeley.edu/) is less than ten percent. Owing to this scarcity of strong recorded accelerograms and the necessity of engineers to assess infrastructure earthquake performance, accelerograms are scaled.
 
