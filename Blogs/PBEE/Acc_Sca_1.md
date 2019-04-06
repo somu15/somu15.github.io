@@ -4,7 +4,9 @@ title: Accelerogram Scaling
 subtitle: Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?
 ---
 
+<div style="text-align: right">
 **Earthquake Process.** An earthquake is a complex process involving three main events: 1. rupture on the fault plane and generation of seismic waves (source); 2. seismic wave propagation (path); 3. ground motion on the surface (site). These three events associated with earthquakes are depcited in the figure below.   
+</div>
 
 <center><img src="/Blogs/PBEE/Figures/Schem_Easy2.png" width="400"></center>
 
@@ -18,5 +20,5 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 
 <img src="/Blogs/PBEE/Figures/Target_Spectrum1.PNG" width="350"> <img src="/Blogs/PBEE/Figures/Coll_Frag1.png" width="335">
 
-**Ubiquity of Scaling Accelerograms.** Because of the scarcity of strong recorded accelerograms and the lack of enough accelerograms whose spectral shape match a target response spectrum, [accelerogram scaling is commonly practiced in Earthquake Engineering](https://www.nehrp.gov/pdf/nistgcr11-917-15.pdf). Procedures such as the Incremental Dynamic Analysis frequently employed in seimsic analysis [rely upon accelerogram scaling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/eqe.141). Having said this, it should be noted that there are quite a number of studies which perform seismic analysis of structures without scaling accelerograms. [This study](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.2922) is one example, wherein, fragility assessments of buildings were conducted using unscaled accelerograms.
+**Ubiquity of Scaling Accelerograms.** Because of the scarcity of strong recorded accelerograms and the lack of enough accelerograms whose spectral shape match a target response spectrum, [accelerogram scaling is commonly practiced in Earthquake Engineering](https://www.nehrp.gov/pdf/nistgcr11-917-15.pdf). Procedures such as the Incremental Dynamic Analysis, frequently employed in seimsic analysis, [rely upon accelerogram scaling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/eqe.141). Having said this, it should be noted that there are quite a number of studies which perform seismic analysis of structures without scaling accelerograms. [This study](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.2922) is one example, wherein, fragility assessments of buildings were conducted using unscaled accelerograms.
 
