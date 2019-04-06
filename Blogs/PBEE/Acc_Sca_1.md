@@ -25,3 +25,5 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 **Note:** In the previous paragraph, assertions on using the seismic properties of scaled accelerograms to investigate the bias in seismic response analysis will be demonstrated with examples towards the end of this series of blog posts.
 
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
+
+<div style="text-align: right"> Next Post </div>
