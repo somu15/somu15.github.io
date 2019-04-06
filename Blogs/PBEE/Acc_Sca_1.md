@@ -4,8 +4,7 @@ title: Accelerogram Scaling
 subtitle: Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?
 ---
   
-**Earthquake Process.** <div style="text-align: right"> An earthquake is a complex process involving three main events: 1. rupture on the fault plane and generation of seismic waves (source); 2. seismic wave propagation (path); 3. ground motion on the surface (site). These three events associated with earthquakes are depcited in the figure below.   
-</div>
+**Earthquake Process.** An earthquake is a complex process involving three main events: 1. rupture on the fault plane and generation of seismic waves (source); 2. seismic wave propagation (path); 3. ground motion on the surface (site). These three events associated with earthquakes are depcited in the figure below.   
 
 <center><img src="/Blogs/PBEE/Figures/Schem_Easy2.png" width="400"></center>
 
