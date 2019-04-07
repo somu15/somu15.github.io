@@ -26,4 +26,4 @@ subtitle: Why understanding the seismology of scaled accelerograms is important 
 
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
-<div style="text-align: right"> Next Post </div>
+<div style="text-align: right"> [Next Post]() </div>
