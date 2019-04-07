@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accelerogram Scaling
-subtitle: Seismology of Accelerogram Scaling I--Elastodynamics and Earthquakes
+subtitle: Seismology of Accelerogram Scaling 1--Elastodynamics and Earthquakes
 ---
   
 
