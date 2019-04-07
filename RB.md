@@ -13,7 +13,7 @@ Journal articles are complex to understand without spending sufficient time read
 **Accelerogram amplitude scaling**
 
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
-  * [Seismology of Accelerogram Scaling I--Elastodynamics and Earthquakes](Blogs/PBEE/Acc_Sca_2.md)
+  * [Seismology of Accelerogram Scaling 1--Elastodynamics and Earthquakes](Blogs/PBEE/Acc_Sca_2.md)
  
 
 <!---
