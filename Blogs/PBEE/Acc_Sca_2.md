@@ -4,7 +4,7 @@ title: Accelerogram Scaling
 subtitle: Seismology of Accelerogram Scaling 1 -- Elastodynamics and Earthquakes
 ---
   
-**Beginning from First Principles.** Understanding the seismic characteristics of scaled accelerograms requires us to visit the mechanics that governs earthquake processes. Only by understanding the earthquake mechanics, per the author's opinion, we can gain insights into the physics of the scaling process. Such a comprehension of the physics of scaling will further enable us to--by attributing some character to the scaling procedure--inform about the safety of infrastructure under strong earthquakes. Because earthquake safety assessment of infrastructure, as discussed in the [Previous Post](https://somu15.github.io/Blogs/PBEE/Acc_Sca_1/), routinely relies on scaling accelerograms.  
+**Beginning from First Principles.** Understanding the seismic characteristics of scaled accelerograms requires us to visit the mechanics of earthquake processes. Only by understanding the earthquake mechanics, per the author's opinion, we can gain insights into the physics of the scaling process. Such a comprehension of the physics will further enable us to gain new insights about the safety of infrastructure under strong earthquakes, by attributing some character to the scaling procedure. As discussed in the [Previous Post](https://somu15.github.io/Blogs/PBEE/Acc_Sca_1/), earthquake safety assessment of infrastructure routinely relies on scaling accelerograms.
 
 **Earthquake Mechanics.**
 
