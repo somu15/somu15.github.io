@@ -24,6 +24,16 @@ subtitle: References
 
 [10] Jalayer, F., Ebrahimian, H., Miano, A., Manfredi, G., & Sezen, H. (2017). Analytical fragility assessment using unscaled ground motion records. _Earthquake Engineering & Structural Dynamics_, 46(15), 2639-2663.
 
+[11] Aki, K., & Richards, P. G. (2002). Quantitative seismology. _University Science Books_.
+
+[12] Srinath, L. S. (2009). Advanced mechanics of solids. _Tata McGraw-Hill Education_.
+
+[13] Shearer, P. M. (2009). Introduction to seismology. _Cambridge University Press_.
+
+[14] Graves, R. W., & Pitarka, A. (2010). Broadband ground-motion simulation using a hybrid approach. _Bulletin of the Seismological Society of America_, 100(5A), 2095-2123.
+
+[15] Ji, C., Wald, D. J., & Helmberger, D. V. (2002). Source description of the 1999 Hector Mine, California, earthquake, part I: Wavelet domain inversion theory and resolution analysis. _Bulletin of the Seismological Society of America_, 92(4), 1192-1207.
+
 <p style="text-align:right;">
 <a href="https://somu15.github.io/RB/"><b>Back to Research</b></a>
 <span style="float:left;"><a href="https://somu15.github.io/Blogs/PBEE/"><b>Previous Post</b></a></span>
