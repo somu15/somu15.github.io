@@ -4,7 +4,7 @@ title: Accelerogram Scaling
 subtitle: References
 ---
   
-[1] Luco, N., & Bazzurro, P. (2007). Does amplitude scaling of ground motion records result in biased nonlinear structural drift responses?. _Earthquake Engineering & Structural Dynamics_, 36(13), 1813-1835.
+[1] Luco, N., & Bazzurro, P. (2007). Does amplitude scaling of ground motion records result in biased nonlinear structural drift responses? _Earthquake Engineering & Structural Dynamics_, 36(13), 1813-1835.
 
 [2] Ancheta, T. D., Darragh, R. B., Stewart, J. P., Seyhan, E., Silva, W. J., Chiou, B. S. J., ... & Kishida, T. (2014). NGA-West2 database. _Earthquake Spectra_, 30(3), 989-1005.
 
