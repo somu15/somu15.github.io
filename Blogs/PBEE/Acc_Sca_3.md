@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accelerogram Scaling
-subtitle: Seismology of Accelerogram Scaling 2 -- Non-Portability Axiom and Scaled Accelerogram Recording Location
+subtitle: Seismology of Accelerogram Scaling 3 -- Non-Portability Axiom and Scaled Accelerogram Recording Location
 ---
   
 
