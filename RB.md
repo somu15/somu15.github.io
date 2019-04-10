@@ -4,7 +4,7 @@ title: Research Themes
 subtitle: and blogs
 ---
 
-Journal articles are complex to understand without spending sufficient time reading them. The aim of these research blogs is to discuss my research in a casual manner so as to aid in its easier comprehension. Following are the links to the discussion topics grouped under four research themes. Comments and suggestions for the improvement of my posts are welcome and can be directed to my GMail: **somdhulipala9**.
+Journal articles are complex to understand without spending sufficient time reading them. The aim of these research blogs is to discuss my research in a casual manner so as to aid in its easier comprehension. Following are the links to the discussion topics grouped under four research themes. Comments and suggestions for the improvement of my posts are welcome and can be directed to my Gmail: **somdhulipala9**.
 
 
 ### 1. Performance-Based Earthquake Engineering
