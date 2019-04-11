@@ -4,7 +4,11 @@ title: Publications and Presentations
 subtitle:
 ---
 
-### Journal papers
+### Thesis
+
+**Dhulipala, S.L.N.** (2019) Bayesian Methods for Intensity Measure and Ground Motion Selection in Performance-Based Earthquake Engineering. _Doctoral Dissertation_, Virginia Tech. [Link](https://vtechworks.lib.vt.edu/handle/10919/88493)
+
+### Journal Papers
 
 **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912
 
