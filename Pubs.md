@@ -43,9 +43,9 @@ Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Tahir, H., Eatherton, M.R., 
 Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Eatherton, M.R., Irish, J.L., Olgun, C.G., Reichard, G., Rodriguez-Marek, A., Leon, R.T., and de la Garza, J.M. (2017). Multi-Hazard Resilient and Sustainable Buildings:
 A Performance-Based Approach. *ASCE Congress on Technical Advancement*, Duluth, Minnesota. **(PR)**
 
-**Dhulipala, S.L.N.**#, and Flint, M. M. (2018). A semi-Markov model for post-earthquake building recovery and the dis-functionality hazard curve. *ASCE Engineering Mechanics Institute Conference*, Cambridge, Massachusetts. **(PR)**
+**Dhulipala, S.L.N.**#, and Flint, M. M. (2018). A Semi-Markov Model for Post-Earthquake Building Recovery and the Dis-Functionality Hazard Curve. *ASCE Engineering Mechanics Institute Conference*, Cambridge, Massachusetts. **(PR)**
 
-**Dhulipala, S.L.N.**#, Rodriguez-Marek, A., and Flint, M. M. (2018). Importance of Intensity Measure Sufficiency for Structural Seismic Demand Hazard Analysis. *11th U.S. National Conference on Earthquake Engineering*, Los Angeles, California. **(PA; PR)**
+**Dhulipala, S.L.N.**#, Rodriguez-Marek, A., and Flint, M. M. (2018). Importance of Intensity Measure Sufficiency for Structural Seismic Demand Hazard Analysis. *11th U.S. National Conference on Earthquake Engineering*, Los Angeles, California. **(PA; PO)**
 
 **Dhulipala, S.L.N.**#, Rodriguez-Marek, A., and Flint, M. M. (2018). Salient Features of Seismic Hazard Deaggregation and Computation of Vector Hazard. *Geotechnical Earthquake Engineering and Soil Dynamics V*, Austin, Texas. **(PA; PR)**
 
