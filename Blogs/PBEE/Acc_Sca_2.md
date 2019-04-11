@@ -16,6 +16,8 @@ The ground motion at a site caused due to rupture on the fault plane is mathemat
 
 <center><img src="/Blogs/PBEE/Figures/Informal_RT2.png" width="600"></center>
 
+
+
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
 <p style="text-align:left;">
