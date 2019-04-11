@@ -14,7 +14,7 @@ The ground motion at a site caused due to rupture on the fault plane is mathemat
 
 **(Informal) Representation Theorem.** Ground motion at a site on the earth's surface, using the Representation Theorem, can be expressed as a function of three components: (1) fault strength and geometry; (2) rupture amplitude over the fault; and (3) impulse response of the propagating medium. The figure below presents the Representation Theorem in an informal fashion. For the formal definition, refer to equation (2.41) in [Aki and Richards 2002](https://www.ldeo.columbia.edu/~richards/Aki_Richards.html).
 
-<center><img src="/Blogs/PBEE/Figures/Informal_RT.png" width="600"></center>
+<center><img src="/Blogs/PBEE/Figures/Informal_RT1.png" width="600"></center>
 
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
