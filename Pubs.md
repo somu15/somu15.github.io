@@ -36,7 +36,7 @@ subtitle:
 
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
-Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Tahir, H., Eatherton, M.R., Irish, J.L., Olgun, C.G., Reichard, G., Rodriguez-Marek, A., Zobel, C., Leon, R.T., and de la Garza, J.M. (2016). Decision Framework for Multi-Hazard Design of Resilient, Sustainable Buildings. *International. International Conference on Natural Hazards & Infrastructure*, Chania, Greece. **(PA; PR)**
+Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Tahir, H., Eatherton, M.R., Irish, J.L., Olgun, C.G., Reichard, G., Rodriguez-Marek, A., Zobel, C., Leon, R.T., and de la Garza, J.M. (2016). Decision Framework for Multi-Hazard Design of Resilient, Sustainable Buildings. *International Conference on Natural Hazards & Infrastructure*, Chania, Greece. **(PA; PR)**
 
 **Dhulipala, S.L.N.**#, Flint, M.M., and Olgun, G. (2017). Influence of Soil-Foundation-Structure-Interaction on the Seismic Collapse Capacity of a Steel Building. *CGPR Annual Meeting*, Blacksburg, Virginia. **(PO; PR)**
 
