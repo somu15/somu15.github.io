@@ -4,7 +4,7 @@ title: Publications and Presentations
 subtitle:
 ---
 
-### Journal papers (in review/accepted)
+### Journal papers
 
 **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912
 
