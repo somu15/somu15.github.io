@@ -10,7 +10,7 @@ Journal articles are complex to understand without spending sufficient time read
 ## 1. Performance-Based Earthquake Engineering
 
 
-### Accelerogram amplitude scaling
+**-Accelerogram amplitude scaling**
 
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
   * [Seismology of Accelerogram Scaling 1 -- Elastodynamics and Earthquakes](Blogs/PBEE/Acc_Sca_2.md)
@@ -21,7 +21,7 @@ Journal articles are complex to understand without spending sufficient time read
 
 ### 2.1 All Hazards Resilient and Sustainable Communities
 
-**Markov Stochastics for Multihazard Infrastructure Resilience Assessment**
+**-Markov Stochastics for Multihazard Infrastructure Resilience Assessment**
 
 [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
