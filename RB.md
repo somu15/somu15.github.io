@@ -23,8 +23,10 @@ Journal articles are complex to understand without spending sufficient time read
 
   * [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
+## 3. Finite Element Methods and Computation
+
 <!--
 * [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md) 
 
-### 3. Traditional and * Finite Element Methods
+#
 -->
