@@ -21,7 +21,7 @@ Journal articles are complex to understand without spending sufficient time read
 
 **-Markov Stochastics for Multihazard Infrastructure Resilience Assessment**
 
-  *[Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
+  * [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
 <!--
 * [Bayes rule and Markov Chain Monte Carlo in Structrual Engineering](Blogs/BUQ/MCMC.md) 
