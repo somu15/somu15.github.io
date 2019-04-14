@@ -20,7 +20,7 @@ Observing the Representation Theorem in the above figure, it is noted that groun
 
 **(1) Fault Strength and Geometry** _Strength_ of a fault is described by the elastic properties of the rock medium surrounding it. Elastic properties, in Structural Engineering language, are the Young's, Rigidity, and Bulk moduli. However, these moduli can be mathematically derived from what is called the Elasticity tensor. The Elasticity tensor is a fourth order tensor describing the relationship between material stresses and strains in all three directions. Elasticity tensor depicts the strength of the fault in the Representation Theorem. _Geometry_ of the fault-plane is described by a unit normal vector. Unit normal is a vector normal to a plane whose magnitude is unity. The figure below presents the elasticity tensor and the unit normal of a fault-plane. As will be seen in the [Next Post](https://somu15.github.io/Blogs/PBEE/Acc_Sca_3/), both these quantities play a key role in setting up the problem of understanding the seismology of accelerogram amplitude scaling.   
 
-<center><img src="/Blogs/PBEE/Figures/Fault_STR_GEOM.png" width="600"></center>
+<center><img src="/Blogs/PBEE/Figures/Fault_STR_GEOM.png" width="400"></center>
 
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
