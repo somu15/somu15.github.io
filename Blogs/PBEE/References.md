@@ -36,6 +36,8 @@ subtitle: References
 
 [16] Ji, C., Wald, D. J., & Helmberger, D. V. (2002). Source description of the 1999 Hector Mine, California, earthquake, part I: Wavelet domain inversion theory and resolution analysis. _Bulletin of the Seismological Society of America_, 92(4), 1192-1207.
 
+[17] Minson, S. (2010). A Bayesian approach to earthquake source studies. _Doctoral dissertation_, California Institute of Technology.
+
 <p style="text-align:right;">
 <a href="https://somu15.github.io/RB/"><b>Back to Research</b></a>
 <span style="float:left;"><a href="https://somu15.github.io/Blogs/PBEE/"><b>Previous Post</b></a></span>
