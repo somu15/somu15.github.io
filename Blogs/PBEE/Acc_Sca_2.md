@@ -26,6 +26,8 @@ Observing the Representation Theorem in the above figure, it is noted that groun
 
 <center><img src="/Blogs/PBEE/Figures/northridge_eq_gp_1.png" width="400"></center>
 
+**(3) Propagating Medium Impulse Response (Green's Function).** 
+
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
 <p style="text-align:left;">
