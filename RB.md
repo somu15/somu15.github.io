@@ -15,6 +15,7 @@ Journal articles are complex to understand without spending sufficient time read
   * [Why understanding the seismology of scaled accelerograms is important for Earthquake Engineering?](Blogs/PBEE/Acc_Sca_1.md)
   * [Seismology of Accelerogram Scaling 1 -- Elastodynamics and Earthquakes](Blogs/PBEE/Acc_Sca_2.md)
   * [Seismology of Accelerogram Scaling 2 -- Non-Portability Axiom and Scaled Accelerogram Recording Location](Blogs/PBEE/Acc_Sca_3.md)
+  * [Seismology of Accelerogram Scaling 3 -- Magnitude and Distance of a Scaled Accelerogram](Blogs/PBEE/Acc_Sca_4.md)
   * [References](Blogs/PBEE/References.md) 
 
 ## 2. Networks, Interactions, Data: Infrastructure Resilience Improvement and Maintenance under Hazards
