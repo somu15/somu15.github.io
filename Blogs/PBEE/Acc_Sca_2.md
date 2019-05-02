@@ -26,7 +26,7 @@ Observing the Representation Theorem in the above figure, it is noted that groun
 
 <center><img src="/Blogs/PBEE/Figures/northridge_eq_gp_1.png" width="400"></center>
 
-**(3) Propagating Medium Impulse Response (Green's Function).** 
+**(3) Propagating Medium Impulse Response (Green's Function).** Once there is rupture over the fault plane, the propagating medium is responsible for transimitting this disturbance to the site (or recording station). The strength of the recorded ground motion depends on the propagating medium as much as it does on the fault rupture. The Green's function is an elegant mathematical representation of the propagating medium response. It is general in the sense that, once formulated, it does not depend on the magnitude of fault rupture. Green's function is the ground motion at a site for a unit force applied on the fault plane. The magitude of this ground motion depends both on the direction of the applied force and the direction of recording. Green's function, therefore, is a second order tensor. The _ij_ component of this tensor is the ground motion in direction _j_ with force applied on the fault plane in direction _i_. Small magnitude earthquakes can be regarded as impulsive point sources (or as a point load acting on the source). The ground motion from such earthquakes are treated as empirical Green's functions CITE. The figure below presents an example of a component in the Green's function tensor.   
 
 **To cite this page:** Dhulipala, S.L.N. (2018) What is the Seismology of Accelerogram Amplitude Scaling? (in review)
 
