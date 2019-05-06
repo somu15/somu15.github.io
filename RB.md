@@ -20,7 +20,7 @@ Journal articles are complex to understand without spending sufficient time read
 
 ## 2. Networks, Interactions, Data: Infrastructure Resilience Improvement and Maintenance under Hazards
 
-**-Markov Stochastics for Multihazard Infrastructure Resilience Assessment**
+**-Markov Stochastic Theory for Multihazard Infrastructure Resilience Assessment**
 
   * [Understanding the Markov hierarchy for infrastructure resilience assessment](Blogs/AHRSC/Markov.md)
 
