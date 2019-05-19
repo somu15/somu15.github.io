@@ -38,6 +38,10 @@ subtitle: References
 
 [17] Minson, S. (2010). A Bayesian approach to earthquake source studies. _Doctoral dissertation_, California Institute of Technology.
 
+[18] Green's Function. _Wikipedia_ [Link](https://en.wikipedia.org/wiki/Green%27s_function).
+
+[19] Hutchings, L., Viegas, G., & D’Amico, S. (2012). Application of empirical Green's functions in earthquake source, wave propagation and strong ground motion studies. _INTECH Open Access Publisher_.
+
 <p style="text-align:right;">
 <a href="https://somu15.github.io/RB/"><b>Back to Research</b></a>
 <span style="float:left;"><a href="https://somu15.github.io/Blogs/PBEE/"><b>Previous Post</b></a></span>
