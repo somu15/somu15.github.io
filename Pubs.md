@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications and Presentations
-subtitle:
+title: Publications
+subtitle: and presentations
 ---
 
 ### Thesis
