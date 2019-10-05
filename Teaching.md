@@ -15,6 +15,9 @@ subtitle: experience and interests
 
 ## Mentoring experience
 
+Mr. Dante Coronado and Mr. Aimane Najmeddine **2017**
+Resilient and Sustainable Buildings project
+
   * Tutored nonlinear dynamic analysis of buildings using OpenSees
   * Mentees designed workflows for node and element numbering, loads specification, material assignment, and analysis initiation
   * Mentees were able to perform seismic fragility analysis of a two-bay, two-story steel moment frame with concentrated plasticity non-linearity
