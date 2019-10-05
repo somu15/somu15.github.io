@@ -15,9 +15,14 @@ subtitle: experience and interests
 
 ## Mentoring experience
 
-Mr. Dante Coronado and Mr. Aimane Najmeddine **2017**
+**2017** Mr. Dante Coronado and Mr. Aimane Najmeddine
+
 Resilient and Sustainable Buildings project
 
   * Tutored nonlinear dynamic analysis of buildings using OpenSees
   * Mentees designed workflows for node and element numbering, loads specification, material assignment, and analysis initiation
   * Mentees were able to perform seismic fragility analysis of a two-bay, two-story steel moment frame with concentrated plasticity non-linearity
+
+## Teaching interests
+
+Based on past experience, I find all aspects of teaching to be stimulating and rewarding: lecturing, interacting with the students, formulating problem sets, and lab experiments. I look forward to teaching analysis type courses such as Mechanics of Materials, Structural Analysis, and Statistics for Civil Engineers at the undergraduate level. At the graduate level, I am enthused to teach Advanced Structural Analysis, Finite Element Methods, and Dynamics of Structures.
