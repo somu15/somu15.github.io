@@ -25,7 +25,7 @@ description: "Som Dhulipala"
 # List of links in the navigation bar
 navbar-links:
   Research Blogs: "RB"
-  Publications/Presentations: "Pubs"
+  Publications: "Pubs"
   # Research Blogs: "RB"
   Teaching: "Teaching"
   Service: "Service"
