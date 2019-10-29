@@ -10,11 +10,13 @@ subtitle: and presentations
 
 ### Journal Papers
 
+**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2019) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering* [accepted with minor changes]
+
 **Dhulipala, S.L.N.** and Flint, M.M. (2019) Series of Semi-Markov Processes to Model Infrastructure Resilience under Multihazards. *Reliability Engineering and System Safety* [[Link](https://www.sciencedirect.com/science/article/pii/S0951832019301619)]
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912 [Link](https://earthquakespectra.org/doi/abs/10.1193/080117EQS149M)
+**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912 [[Link](https://earthquakespectra.org/doi/abs/10.1193/080117EQS149M)]
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA. *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)
+**Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA. *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)]
 
 <!---
 
