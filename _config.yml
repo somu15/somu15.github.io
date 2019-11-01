@@ -120,7 +120,7 @@ url-pretty: "somu15.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-151317703-1"
+google_analytics: "UA-151317703-1"
 
 # Google Tag Manager ID
 #gtm: ""
