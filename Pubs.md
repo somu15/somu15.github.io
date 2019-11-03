@@ -6,7 +6,7 @@ subtitle: and presentations
 
 ### Thesis
 
-**Dhulipala, S.L.N.** (2019) Bayesian Methods for Intensity Measure and Ground Motion Selection in Performance-Based Earthquake Engineering. _Doctoral Dissertation_, Virginia Tech. [Link](https://vtechworks.lib.vt.edu/handle/10919/88493)
+**Dhulipala, S.L.N.** (2019) Bayesian Methods for Intensity Measure and Ground Motion Selection in Performance-Based Earthquake Engineering. _Doctoral Dissertation_, Virginia Tech [[Link](https://vtechworks.lib.vt.edu/handle/10919/88493)]
 
 ### Journal Papers
 
