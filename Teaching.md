@@ -23,4 +23,4 @@ subtitle: experience and interests
 
 ## Teaching interests
 
-Based on past experience, I find all aspects of teaching to be stimulating and rewarding: lecturing, interacting with the students, formulating problem sets, and lab experiments. I look forward to teaching analysis type courses such as Mechanics of Materials, Structural Analysis, and Statistics for Civil Engineers at the undergraduate level. At the graduate level, I am enthused to teach Advanced Structural Analysis, Finite Element Methods, and Dynamics of Structures.
+Based on past experience, I find all aspects of teaching to be stimulating and rewarding: lecturing, interacting with the students, formulating problem sets, and lab experiments. I look forward to teaching analysis type courses such as Mechanics of Materials, Structural Analysis, and Statistics for Civil Engineers at the undergraduate level. At the graduate level, I am enthused to teach Advanced Structural Analysis, Finite Element Methods, and Dynamics of Structures, in addition to developing Reliability Analysis of Structures and Multihazard Engineering Analysis courses.
