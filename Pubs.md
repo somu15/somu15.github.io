@@ -10,9 +10,9 @@ subtitle: and presentations
 
 ### Journal Papers
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2019) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering* [accepted with minor changes]
+**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2020) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering*, 134, 106144 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026772611930990X?via%3Dihub)]
 
-**Dhulipala, S.L.N.** and Flint, M.M. (2019) Series of Semi-Markov Processes to Model Infrastructure Resilience under Multihazards. *Reliability Engineering and System Safety* [[Link](https://www.sciencedirect.com/science/article/pii/S0951832019301619)]
+**Dhulipala, S.L.N.** and Flint, M.M. (2019) Series of Semi-Markov Processes to Model Infrastructure Resilience under Multihazards. *Reliability Engineering and System Safety*, 193, 106659 [[Link](https://www.sciencedirect.com/science/article/pii/S0951832019301619)]
 
 **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912 [[Link](https://earthquakespectra.org/doi/abs/10.1193/080117EQS149M)]
 
@@ -20,21 +20,6 @@ subtitle: and presentations
 
 <!---
 
-**Dhulipala, S.L.N.** and Flint, M.M. (2019) Non-Renewal Semi-Markov Functionality Recovery Model Accounting Multiple Disruptions for Infrastructure Resilience. *Reliability Engineering and System Safety* (in review)
-
-**Dhulipala, S.L.N.** (2018) What is the Seismology of Accelerogram Amplitude Scaling? *Earthquake Spectra* (in review)
-
-**Dhulipala, S.L.N.** and Flint, M.M. (2018) Bayesian Conditional Spectrum for Ground Motion Selection. *Earthquake Engineering and Structural Dynamics* (in review)
-
-### Journal papers (in progress)
-
-1. **Dhulipala, S.L.N.** and Baroud, H. The Markov Hierarchy in Infrastructure Resilience Assessment: From Single Hazard to Multihazards. *Structural Safety*
-
-2. **Dhulipala, S.L.N.**, Bahrampouri, M., and Rodriguez-Marek, A. Optimal Intensity Measures for Site Response Prediction.
-
-3. **Dhulipala, S.L.N.** Seismological Correctness of Accelerogram Scaling: Collapse Capacities and FEMA P695 Spectral Shape Factors. *Earthquake Spectra*
-
-4. Flint, M. M., **Dhulipala, S.L.N.**, Esteghamati, M. Z., Gil, E., Kamalzare, S., Ladipo, T., Shahtaheri, Y., Tahir, H., Eatherton, M. R., de la Garza, J. M., Irish, J. L., Leon, R. T., Olgun, C. G., Reichard, G., Rodriguez-Marek, A., and Zobel, C. A Performance-Based Decision Support System for Design of Multi-Hazard Resilient Sustainable Buildings. *Natural Hazards Review*
 
 -->
 
