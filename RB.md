@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-subtitle: and blogs
+subtitle:
 ---
 
 Journal articles are complex to understand without spending sufficient time reading them. The aim of these research blogs is to discuss my research in a casual manner so as to aid in its easier comprehension. Following are the links to the discussion topics grouped under three research themes. Comments and suggestions for the improvement of my posts are welcome and can be directed to my Gmail: **somdhulipala9**.
