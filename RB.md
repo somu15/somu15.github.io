@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Themes
+title: Research Projects
 subtitle: and blogs
 ---
 
