@@ -10,7 +10,7 @@ subtitle: and presentations
 
 ### Journal Papers
 
-**Dhulipala, S.L.N.** and Flint, M.M. (2020) Capabilities of Multivariate Bayesian Inference Towards Seismic Hazard Assessment. *Springer Natural Hazards* (accepted)
+**Dhulipala, S.L.N.** and Flint, M.M. (2020) Capabilities of Multivariate Bayesian Inference Towards Seismic Hazard Assessment. *Springer Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
 
 **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2020) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering*, 134, 106144 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026772611930990X?via%3Dihub)]
 
