@@ -10,15 +10,17 @@ subtitle: and presentations
 
 ### Journal Papers
 
-**Dhulipala, S.L.N.** and Flint, M.M. (2020) Capabilities of Multivariate Bayesian Inference Towards Seismic Hazard Assessment. *Springer Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
+[6.] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation. *Nuclear Technology* (Accepted)
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2020) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering*, 134, 106144 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026772611930990X?via%3Dihub)]
+[5.] **Dhulipala, S.L.N.** and Flint, M.M. (2020) Capabilities of Multivariate Bayesian Inference Towards Seismic Hazard Assessment. *Springer Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
 
-**Dhulipala, S.L.N.** and Flint, M.M. (2019) Series of Semi-Markov Processes to Model Infrastructure Resilience under Multihazards. *Reliability Engineering and System Safety*, 193, 106659 [[Link](https://www.sciencedirect.com/science/article/pii/S0951832019301619)]
+[4.] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2020) Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory. *Soil Dynamics and Earthquake Engineering*, 134, 106144 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026772611930990X?via%3Dihub)]
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912 [[Link](https://earthquakespectra.org/doi/abs/10.1193/080117EQS149M)]
+[3.] **Dhulipala, S.L.N.** and Flint, M.M. (2019) Series of Semi-Markov Processes to Model Infrastructure Resilience under Multihazards. *Reliability Engineering and System Safety*, 193, 106659 [[Link](https://www.sciencedirect.com/science/article/pii/S0951832019301619)]
 
-**Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA. *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)]
+[2.] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Flint, M.M. (2018) Computation of Vector Hazard Using Salient Features of Seismic Hazard Deaggregation. *Earthquake Spectra*, 34(4), 1893-1912 [[Link](https://earthquakespectra.org/doi/abs/10.1193/080117EQS149M)]
+
+[1.] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA. *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)]
 
 <!---
 
