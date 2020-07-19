@@ -87,7 +87,7 @@ social-network-links:
   github: somu15
 #  facebook: daattali
   
-#  twitter: somu3815
+twitter: somu3815
 #  researchgate: profile/Somayajulu_Dhulipala
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -107,7 +107,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
