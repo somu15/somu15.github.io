@@ -10,9 +10,9 @@ subtitle: and presentations
 
 ### Journal Papers
 
-[7] Veeraraghavan, S., Bolisetti, C., Slaughter, A., Coleman, J., **Dhulipala, S.L.N.**, Hoffman, W., Kim, K.T., Kurt, E., and Spears, R. (2020) "MASTODON: An Open Source Platform for Seismic Analysis and Risk Assessment of Critical Infrastructure." *Nuclear Technology {MOOSE special issue}* (Accepted with minor changes)
+[7] Veeraraghavan, S., Bolisetti, C., Slaughter, A., Coleman, J., **Dhulipala, S.L.N.**, Hoffman, W., Kim, K.T., Kurt, E., and Spears, R. (2020) "MASTODON: An Open Source Platform for Seismic Analysis and Risk Assessment of Critical Infrastructure." *Nuclear Technology--MOOSE special issue* (Accepted with minor changes)
 
-[6] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) "Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation." *Nuclear Technology {Seismic Structural Design special issue}* (Accepted)
+[6] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) "Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation." *Nuclear Technology--Seismic Structural Design special issue* (Accepted)
 
 [5] **Dhulipala, S.L.N.** and Flint, M.M. (2020) "Capabilities of Multivariate Bayesian Inference Toward Seismic Hazard Assessment." *Springer Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
 
