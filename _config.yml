@@ -25,10 +25,10 @@ description: "Som Dhulipala"
 # List of links in the navigation bar
 navbar-links:
   Research: "RB"
-  Publications: "Pubs"
-  Github: "https://github.com/somu15"
   Teaching: "Teaching"
+  Publications: "Pubs"
   Service: "Service"
+  Github: "https://github.com/somu15"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
