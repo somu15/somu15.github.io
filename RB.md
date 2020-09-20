@@ -16,6 +16,8 @@ Developing two novel algorithms for an efficient assessment of small failure pro
 
 ## Deep learning for complex systems recovery and resilience assessment under hazards
 
+<center><img style="float: center;" src="/img/DNN_compsys.png" width="500"></center>
+
 ## Multihazard infrastructure resilience modeling
 
 <center><img style="float: center;" src="/img/MH_rec.png" width="500"></center>
