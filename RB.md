@@ -8,7 +8,7 @@ subtitle:
 
 <br />
 <br />
-<center><img style="float: center;" src="/img/Small_Pf.png" width="150"></center>
+<center><img style="float: center;" src="/img/Small_Pf.png" width="1000"></center>
 <br />
 <br />
 
