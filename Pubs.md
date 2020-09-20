@@ -31,9 +31,9 @@ subtitle: and presentations
 
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
-[12] **Dhulipala, S.L.N.#** (2021) "Modeling Temporal Inter-event Dependencies using Series of Semi-Markov Processes in the Context of Multihazard infrastructure Recovery." *ASCE Lifelines Conference, Los Angeles.* **(PA, PR)**
+[12] **Dhulipala, S.L.N.**# (2021) "Modeling Temporal Inter-event Dependencies using Series of Semi-Markov Processes in the Context of Multihazard infrastructure Recovery." *ASCE Lifelines Conference, Los Angeles, California.* **(PA, PR)**
 
-[11] **Dhulipala, S.L.N.#**, Bolisetti, C., and Munday, L. B. (2020) "Seismic Fluid-Structure Interaction Analysis of Molten Fuel Advanced Reactor Vessels using MASTODON." *DOE-NRC Natural Phenomena Hazards Meeting.* **(PR)**
+[11] **Dhulipala, S.L.N.**#, Bolisetti, C., and Munday, L. B. (2020) "Seismic Fluid-Structure Interaction Analysis of Molten Fuel Advanced Reactor Vessels using MASTODON." *DOE-NRC Natural Phenomena Hazards Meeting.* **(PR)**
 
 [10] **Dhulipala, S.L.N.**# (2019) "External Hazards Risk Assessment of Nuclear Structures." *Idaho National Lab Young Researchers Annual Meeting*. **(PO)**
 
