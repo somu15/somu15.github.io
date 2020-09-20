@@ -4,7 +4,17 @@ title: Research Projects
 subtitle:
 ---
 
+## Efficient small failure probability evalution using complex finite element models
 
+## Fluid-structure and soil-structure interaction analysis of advanced reactors
+
+## Non-ergodic seismic hazard and risk evaluation
+
+## Deep learning for complex systems recovery and resilience assessment under hazards
+
+## Multihazard infrastructure resilience modeling
+
+## Bayesian methods for Performance-Based Engineering
 
 <!--
 
