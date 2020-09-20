@@ -14,7 +14,7 @@ subtitle: and presentations
 
 [6] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) "Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation." *Nuclear Technology--Seismic Structural Design special issue* (Accepted)
 
-[5] **Dhulipala, S.L.N.** and Flint, M.M. (2020) "Capabilities of Multivariate Bayesian Inference Toward Seismic Hazard Assessment." *Springer Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
+[5] **Dhulipala, S.L.N.** and Flint, M.M. (2020) "Capabilities of Multivariate Bayesian Inference Toward Seismic Hazard Assessment." *Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
 
 [4] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., and Bahrampouri, M. (2020) "Intensity Measure Adequacy Assessment for Nonlinear Site Response using Information Theory." *Soil Dynamics and Earthquake Engineering*, 134, 106144 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026772611930990X?via%3Dihub)]
 
@@ -30,6 +30,10 @@ subtitle: and presentations
 -->
 
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
+
+[12] **Dhulipala, S.L.N.#** (2021) "Modeling Temporal Inter-event Dependencies using Series of Semi-Markov Processes in the Context of Multihazard infrastructure Recovery." *ASCE Lifelines Conference, Los Angeles.* **(PA, PR)**
+
+[11] **Dhulipala, S.L.N.#**, Bolisetti, C., and Munday, L. B. (2020) "Seismic Fluid-Structure Interaction Analysis of Molten Fuel Advanced Reactor Vessels using MASTODON." *DOE-NRC Natural Phenomena Hazards Meeting.* **(PR)**
 
 [10] **Dhulipala, S.L.N.**# (2019) "External Hazards Risk Assessment of Nuclear Structures." *Idaho National Lab Young Researchers Annual Meeting*. **(PO)**
 
