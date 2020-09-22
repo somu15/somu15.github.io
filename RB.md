@@ -4,6 +4,8 @@ title: Research Projects
 subtitle: 
 ---
 
+<br />
+
 ## Efficient small failure probability evalution using complex finite element models
 
 <center><img style="float: center;" src="/img/Small_Pf.png" width="500"></center>
