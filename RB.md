@@ -10,20 +10,30 @@ subtitle:
 
 Developing two novel algorithms for an efficient assessment of small failure probabilities using computationally expensive finite element models: (1) A machine learning interface between high- and low-fidelity finite element models for variance reduction; and (2) Control variates subset simulation supported by machine learning. Case studies: (1) Reactor vessel embrittlement and cracking failure due to irradiation; (2) Thermal stress failure of a heat-pipe micro-reactor; and (3) Environmental hazard assessment of advanced nuclear fuels due to fission products release.
 
+<br />
+<br />
 ## Deep learning for complex dynamical systems recovery and resilience assessment under hazards
 
 <center><img style="float: center;" src="/img/DNN_compsys.png" width="750"></center>
 
+<br />
+<br />
 ## Multihazard infrastructure resilience modeling
 
 <center><img style="float: center;" src="/img/MH_rec.png" width="500"></center>
 
 Proposed a stochastic model using Markov-type processes for recovery of systems subjected to multihazards. The model accounts for inter-event dependencies between multihazards during the system recovery, thereby, delaying system recovery after a new hazard event when the recovery from a previous event is not complete. Also proposed a resilience metric termed "Disfunctionality hazard" for supporting resilience-based decision making of systems subjected to multihazards. Disfunctionality hazard maps a system's functionality recovery curves to a risk space that is similar to the performance-based engineering framework.
 
+<br />
+<br />
 ## Fluid-structure and soil-structure interaction analysis of advanced reactors
 
+<br />
+<br />
 ## Non-ergodic seismic hazard and risk evaluation
 
+<br />
+<br />
 ## Bayesian methods for Performance-Based Engineering
 
 <!--
