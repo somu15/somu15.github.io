@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-subtitle: Interests: Bayesian inference, Finite element analysis, Infrastructure resilience, Machine learning for risk assessment, Monte Carlo methods, Performance-Based Engineering, and Uncertainty quantification
+subtitle: 
 ---
 
 ## Efficient small failure probability evalution using complex finite element models
