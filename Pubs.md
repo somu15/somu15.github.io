@@ -58,3 +58,8 @@ subtitle: and presentations
 ### Technical Reports
 
 [1] Munday, L. B., **Dhulipala, S.L.N.**, Casagranda, A., Pitts, S. A., Spencer, B. W., Tallman, A., Kumar, A. M., Matthews, C., Messner, M., and Chakraborty, A. (2020). "Multiscale-Informed Modeling of High Temperature Component Response with Uncertainty Quantification." *Report No. INL/EXT-20-59795*.
+
+### Datasets
+
+[1] **Dhulipala, S.L.N.**, Flint, M. M., and Rodriguez-Marek, A. (2018). "Vector Seismic Hazard Analysis in MATLAB" , *DesignSafe-CI Dataset*, doi:10.17603/DS2X10J
+.
