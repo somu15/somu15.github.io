@@ -61,5 +61,4 @@ subtitle: and presentations
 
 ### Datasets
 
-[1] **Dhulipala, S.L.N.**, Flint, M. M., and Rodriguez-Marek, A. (2018). "Vector Seismic Hazard Analysis in MATLAB" , *DesignSafe-CI Dataset*, doi:10.17603/DS2X10J
-.
+[1] **Dhulipala, S.L.N.**, Flint, M. M., and Rodriguez-Marek, A. (2018). "Vector Seismic Hazard Analysis in MATLAB" , *DesignSafe-CI Dataset*, doi:10.17603/DS2X10J.
