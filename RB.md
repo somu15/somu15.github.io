@@ -22,7 +22,7 @@ Developing two novel algorithms for an efficient assessment of small failure pro
 
 ## Fluid-structure and soil-structure interaction analysis of advanced reactors
 
-<center><img style="float: center;" src="/img/Vessel.png" width="500"></center>
+<center><img style="float: center;" src="/img/Vessel.png" width="400"></center>
 
 ***
 
