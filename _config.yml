@@ -25,9 +25,9 @@ description: "Som Dhulipala"
 # List of links in the navigation bar
 navbar-links:
   Research: "RB"
-  Teaching: "Teaching"
   Publications: "Pubs"
-  Service: "Service"
+  Teaching: "Teaching"
+  # Service: "Service"
   Github: "https://github.com/somu15"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
