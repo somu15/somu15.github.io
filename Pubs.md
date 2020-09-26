@@ -54,3 +54,7 @@ subtitle: and presentations
 [2] **Dhulipala, S.L.N.**#, Flint, M.M., and Olgun, G. (2017) "Influence of Soil-Foundation-Structure-Interaction on the Seismic Collapse Capacity of a Steel Building." *CGPR Annual Meeting*, Blacksburg, Virginia. **(PO; PR)**
 
 [1] Flint, M.M.#, **Dhulipala, S.L.N.**, Shahateri, Y., Tahir, H., Eatherton, M.R., Irish, J.L., Olgun, C.G., Reichard, G., Rodriguez-Marek, A., Zobel, C., Leon, R.T., and de la Garza, J.M. (2016) "Decision Framework for Multi-Hazard Design of Resilient, Sustainable Buildings." *International Conference on Natural Hazards & Infrastructure*, Chania, Greece. **(PA; PR)**
+
+### Technical Reports
+
+[1] Munday, L. B., **Dhulipala, S.L.N.**, Casagranda, A., Pitts, S. A., Spencer, B. W., Tallman, A., Kumar, A. M., Matthews, C., Messner, M., and Chakraborty, A. (2020). "Multiscale-Informed Modeling of High Temperature Component Response with Uncertainty Quantification." *Report No. INL/EXT-20-59795*.
