@@ -12,7 +12,7 @@ subtitle:
 
 Developing two novel algorithms for an efficient assessment of small failure probabilities using computationally expensive finite element models: (1) A machine learning interface between high- and low-fidelity finite element models for variance reduction; and (2) Control variates subset simulation supported by machine learning. Case studies: (1) Reactor vessel embrittlement and cracking failure due to irradiation; (2) Thermal stress failure of a heat-pipe micro-reactor; and (3) Environmental hazard assessment of advanced nuclear fuels due to fission products release.
 
-***
+<hr style="border:2px solid gray"> </hr>
 
 ## Deep learning for complex dynamical systems recovery and resilience assessment under hazards
 
