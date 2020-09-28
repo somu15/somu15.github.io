@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Multihazard infrastructure resilience modeling
+subtitle:
+---
 
 <center><img style="float: center;" src="/img/MH_rec.png" width="500"></center>
 
