@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Efficient small failure probability computations with expensive FE models
+title: \small Efficient small failure probability computations with expensive FE models
 subtitle: with the application of machine learning
 ---
 
