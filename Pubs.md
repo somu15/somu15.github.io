@@ -24,10 +24,11 @@ subtitle: and presentations
 
 [1] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) "A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA." *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)]
 
-<!---
+### Under Review
 
+[2] **Dhulipala, S.L.N.**, Burton, H., and Baroud, H. "A Markov Framework for Generalized Post-Event Systems Recovery Modeling: From Single to Multihazards." *Structural Safety*
 
--->
+[1] **Dhulipala, S.L.N.** "Disfunctionality Hazard: A Risk-Based Tool to Support the Resilient Design of Systems Subjected to Single Hazards or Multihazards." *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*
 
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
