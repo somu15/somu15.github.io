@@ -6,6 +6,8 @@ subtitle:
 
 <br />
 
+<center><img style="float: center;" src="/img/AJ_Schem.pdf" width="400"></center>
+
 ## Current projects
 
 [Efficient small failure probability computations with expensive FE models](Blogs/Small_Pf.md)
