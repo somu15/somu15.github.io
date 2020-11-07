@@ -6,7 +6,7 @@ subtitle:
 
 <br />
 
-<center><img style="float: center;" src="/img/AJ_Schem.pdf" width="400"></center>
+<center><img style="float: center;" src="/img/AJ_Schem.png" width="400"></center>
 
 ## Current projects
 
