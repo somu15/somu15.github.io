@@ -6,7 +6,7 @@ subtitle:
 
 <br />
 
-<center><img style="float: center;" src="/img/AJ_Schem.png" width="400"></center>
+<center><img style="float: center;" src="/img/AJ_Schem.png" width="650"></center>
 
 In order to protect civil infrastructure from external hazards, my research takes a multi-disciplinary approach spanning structural engineering, probability theory, and machine learning to study the risk and resilience of infrastructure and to develop decision tools that enhance infrastructure performance. As illustrated in the figure above, I am interested in characterizing the multihazard performance of structures using Performance-Based Engineering (PBE) and integrating the results with a complex systems framework for understanding the inter-dependencies between and studying the recovery of infrastructure systems. In order to reduce the computational expense of models, especially while deriving risk measures or performing structural design optimization, my research also invents approaches to replace expensive Finite Element (FE) or recovery models with machine learning models while accurately quantifying the associated uncertainties.
 
