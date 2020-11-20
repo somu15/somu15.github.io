@@ -10,9 +10,11 @@ subtitle: and presentations
 
 ### Journal Papers
 
-[7] Veeraraghavan, S., Bolisetti, C., Slaughter, A., Coleman, J., **Dhulipala, S.L.N.**, Hoffman, W., Kim, K.T., Kurt, E., and Spears, R. (2020) "MASTODON: An Open Source Platform for Seismic Analysis and Risk Assessment of Critical Infrastructure." *Nuclear Technology--MOOSE special issue* (Accepted with minor changes)
+[8] **Dhulipala, S.L.N.** (2020) "Dysfunctionality Hazard Curve: A Risk-Based Tool to Support the Resilient Design of Systems Subjected to Multihazards." *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering* (Accepted)
 
-[6] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) "Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation." *Nuclear Technology--Seismic Structural Design special issue* (Accepted)
+[7] Veeraraghavan, S., Bolisetti, C., Slaughter, A., Coleman, J., **Dhulipala, S.L.N.**, Hoffman, W., Kim, K.T., Kurt, E., and Spears, R. (2020) "MASTODON: An Open Source Platform for Seismic Analysis and Risk Assessment of Critical Infrastructure." *Nuclear Technology--MOOSE special issue* [[Link](https://www.tandfonline.com/doi/abs/10.1080/00295450.2020.1807282?journalCode=unct20)]
+
+[6] **Dhulipala, S.L.N.**, Bolisetti, C., Coleman, J., Hashimoto, P., Yorg, R., and Cox, M. (2020) "Seismic Risk Assessment of Safety-Critical Nuclear Facilities for the Purpose of Risk-Informed Periodic Re-evaluation." *Nuclear Technology--Seismic Structural Design special issue* [[Link](https://www.tandfonline.com/doi/abs/10.1080/00295450.2020.1792743?journalCode=unct20)]
 
 [5] **Dhulipala, S.L.N.** and Flint, M.M. (2020) "Capabilities of Multivariate Bayesian Inference Toward Seismic Hazard Assessment." *Natural Hazards* [[Link](https://link.springer.com/article/10.1007%2Fs11069-020-04122-5#additional-information)]
 
@@ -26,9 +28,7 @@ subtitle: and presentations
 
 ### Under Review
 
-[2] **Dhulipala, S.L.N.**, Burton, H., and Baroud, H. "A Markov Framework for Generalized Post-Event Systems Recovery Modeling: From Single to Multihazards." *Structural Safety*
-
-[1] **Dhulipala, S.L.N.** "Disfunctionality Hazard: A Risk-Based Tool to Support the Resilient Design of Systems Subjected to Single Hazards or Multihazards." *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*
+[1] **Dhulipala, S.L.N.**, Burton, H., and Baroud, H. "A Markov Framework for Generalized Post-Event Systems Recovery Modeling: From Single to Multihazards." *Structural Safety*
 
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
