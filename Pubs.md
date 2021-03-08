@@ -10,6 +10,10 @@ subtitle: and presentations
 
 ### Journal Papers
 
+[10] **Dhulipala, S.L.N.**, Burton, H., and Baroud, H. "A Markov Framework for Generalized Post-Event Systems Recovery Modeling: From Single to Multihazards." *Structural Safety* (Accepted)
+
+[9] **Dhulipala, S.L.N.** "Gaussian Kernel Methods for Seismic Fragility and Risk Assessment of Mid-Rise Buildings." *Sustainability* (Accepted)
+
 [8] **Dhulipala, S.L.N.** (2020) "Dysfunctionality Hazard Curve: A Risk-Based Tool to Support the Resilient Design of Systems Subjected to Multihazards." *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering* (Accepted)
 
 [7] Veeraraghavan, S., Bolisetti, C., Slaughter, A., Coleman, J., **Dhulipala, S.L.N.**, Hoffman, W., Kim, K.T., Kurt, E., and Spears, R. (2020) "MASTODON: An Open Source Platform for Seismic Analysis and Risk Assessment of Critical Infrastructure." *Nuclear Technology--MOOSE special issue* [[Link](https://www.tandfonline.com/doi/abs/10.1080/00295450.2020.1807282?journalCode=unct20)]
@@ -26,13 +30,11 @@ subtitle: and presentations
 
 [1] **Dhulipala, S.L.N.**, Rodriguez-Marek, A., Ranganathan, S., and Flint, M.M. (2018) "A Site-Consistent Method to Quantify Sufficiency of Alternative IMs in Relation to PSDA." *Earthquake Engineering and Structural Dynamics*, 47(2), 377-396 [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.2955)]
 
-### Under Review
-
-[1] **Dhulipala, S.L.N.**, Burton, H., and Baroud, H. "A Markov Framework for Generalized Post-Event Systems Recovery Modeling: From Single to Multihazards." *Structural Safety*
-
 ### Conference Papers, Posters, and Presentations (PA: Paper; PO: Poster; PR: Presentation; #: Presenter)
 
-[12] **Dhulipala, S.L.N.**# (2021) "Modeling Temporal Inter-event Dependencies using Series of Semi-Markov Processes in the Context of Multihazard infrastructure Recovery." *ASCE Lifelines Conference, Los Angeles, California.* **(PA, PR)**
+[13] **Dhulipala, S. L. N.**#, Shields, M. D., Spencer, B. W., Bolisetti, C., Slaughter, A. E., Laboure, V. M., and Chakroborty, P. (2021). "Adaptive and Efficient Rare Event Analysis using a Gaussian Process Modeling Fidelity Recommender System." *16th U.S. National Congress on Computational Mechanics.* **(PR)**
+
+[12] **Dhulipala, S.L.N.**# (2021) "Modeling Temporal Inter-event Dependencies using Series of Semi-Markov Processes in the Context of Multihazard infrastructure Recovery." *ASCE Engineering Mechanics Institute Probabilistic Methods Conference.* **(PA, PR)**
 
 [11] **Dhulipala, S.L.N.**#, Bolisetti, C., and Munday, L. B. (2020) "Seismic Fluid-Structure Interaction Analysis of Molten Fuel Advanced Reactor Vessels using MASTODON." *DOE-NRC Natural Phenomena Hazards Meeting.* **(PR)**
 
